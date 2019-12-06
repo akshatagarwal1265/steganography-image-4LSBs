@@ -23,10 +23,10 @@ Using MATLAB to embed the secret-image's each pixel's first 4 MSBs in the cover-
 ![Crypted](/images/crypted.jpg)
 
 **Extracted DATA**
-![Extracted Data](/images/Extracted_data.jpg)
+![Extracted Data](/images/extracted_data.jpg)
 
 **Extracted CANVAS**
-![Extracted Canvas](/images/Extracted_canvas.jpg)
+![Extracted Canvas](/images/extracted_canvas.jpg)
 
 ## Acknowledgement
 * Data - Photo by Kristina Flour on Unsplash
