@@ -11,3 +11,23 @@ Using MATLAB to embed the secret-image's each pixel's first 4 MSBs in the cover-
 ## ReadPicInPic
 * The stego-image (or CRYPTED) is used to recover the DATA and the CANVAS
 * Binary operations and built-in functions instead of loops - used to enhance speed
+
+## Demo
+**Input DATA**
+![Input Data](/images/input_data.jpg)
+
+**Input CANVAS**
+![Input Canvas](/images/input_canvas.jpg)
+
+**Stego-image (CRYPTED)**
+![Crypted](/images/crypted.jpg)
+
+**Extracted DATA**
+![Extracted Data](/images/Extracted_data.jpg)
+
+**Extracted CANVAS**
+![Extracted Canvas](/images/Extracted_canvas.jpg)
+
+## Acknowledgement
+* Data - Photo by Kristina Flour on Unsplash
+* Canvas - Photo by Liam Truong on Unsplash
