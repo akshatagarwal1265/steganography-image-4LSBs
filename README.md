@@ -1,5 +1,5 @@
 # steganography-image-4LSBs
-Embed the secret-image's each pixel's first 4 MSBs in the cover-image's pixel's last 4 LSBs
+Using MATLAB to embed the secret-image's each pixel's first 4 MSBs in the cover-image's pixel's last 4 LSBs
 
 ## HidePicInPic
 * The secret-image (or DATA) is hidden in the cover-image (or CANVAS)
