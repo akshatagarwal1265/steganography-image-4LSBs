@@ -19,8 +19,10 @@ Using MATLAB to embed the secret-image's each pixel's first 4 MSBs in the cover-
 **Input CANVAS**
 ![Input Canvas](/images/input_canvas.jpg)
 
-**Stego-image (CRYPTED)**
+**Stego-image (CRYPTED)** -> The above DATA has been hidden in the above CANVAS
 ![Crypted](/images/crypted.jpg)
+
+Now, we shall use the above **Stego-image (CRYPTED)**, to extract the original DATA and CANVAS
 
 **Extracted DATA**
 ![Extracted Data](/images/extracted_data.jpg)
